@@ -1,0 +1,16 @@
+<svg stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#111" fill="none" viewBox="0 0 24 24" height="200" width="200" xmlns="http://www.w3.org/2000/svg">
+  <path d="M12 20v2"></path>
+  <path d="M12 2v2"></path>
+  <path d="M17 20v2"></path>
+  <path d="M17 2v2"></path>
+  <path d="M2 12h2"></path>
+  <path d="M2 17h2"></path>
+  <path d="M2 7h2"></path>
+  <path d="M20 12h2"></path>
+  <path d="M20 17h2"></path>
+  <path d="M20 7h2"></path>
+  <path d="M7 20v2"></path>
+  <path d="M7 2v2"></path>
+  <rect rx="2" height="16" width="16" y="4" x="4"></rect>
+  <rect rx="1" height="8" width="8" y="8" x="8"></rect>
+</svg>
