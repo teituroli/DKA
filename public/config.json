@@ -11,7 +11,14 @@
       "order": 999
     }
   ],
-  "svgs": [],
+  "svgs": [
+    {
+      "filename": "donuts-cake-svgrepo-com.svg",
+      "displayName": "donuts cake svgrepo com",
+      "project": "project-1772046354042",
+      "slot": "card"
+    }
+  ],
   "projects": [
     {
       "id": "project-1772046354042",
@@ -20,7 +27,7 @@
       "material": "Steel cable",
       "blurb": "Some short text here",
       "description": "This would have been the love of my life if it were allowed to marry immaterial objects",
-      "cardSvg": null,
+      "cardSvg": "donuts-cake-svgrepo-com.svg",
       "modalSvg": null,
       "cardBg": "#D6C9AF",
       "specs": {
