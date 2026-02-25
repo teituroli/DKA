@@ -1,5 +1,14 @@
 {
-  "site": {},
+  "site": {
+    "name": "Teitur",
+    "email": "teituroli@hotmail.com",
+    "school": "DTU",
+    "manifestoAccents": [
+      "School",
+      "Party"
+    ],
+    "manifesto": "I wish i had a cool way to party when i was in school"
+  },
   "photos": [
     {
       "filename": "backpack.jpg",
