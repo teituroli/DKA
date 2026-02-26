@@ -54,7 +54,8 @@
       "specs": {
         "test": "202"
       },
-      "order": 0
+      "order": 0,
+      "cardSvgMarkup": "<svg viewBox=\"0 0 200 200\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n\n  <!-- seat -->\n  <path class=\"draw\" d=\"M 40 100 L 160 100 L 155 115 L 45 115 Z\"\n    stroke=\"#1C1C1A\" stroke-width=\"1.2\" stroke-linejoin=\"round\"/>\n\n  <!-- backrest -->\n  <path class=\"draw\" d=\"M 55 100 L 50 40 L 150 40 L 145 100\"\n    stroke=\"#1C1C1A\" stroke-width=\"1.2\" stroke-linejoin=\"round\"/>\n\n  <!-- legs -->\n  <line class=\"draw\" x1=\"55\"  y1=\"115\" x2=\"50\"  y2=\"185\" stroke=\"#1C1C1A\" stroke-width=\"1.2\"/>\n  <line class=\"draw\" x1=\"145\" y1=\"115\" x2=\"150\" y2=\"185\" stroke=\"#1C1C1A\" stroke-width=\"1.2\"/>\n  <line class=\"draw\" x1=\"50\"  y1=\"40\"  x2=\"45\"  y2=\"185\" stroke=\"#1C1C1A\" stroke-width=\"1.0\"/>\n  <line class=\"draw\" x1=\"150\" y1=\"40\"  x2=\"155\" y2=\"185\" stroke=\"#1C1C1A\" stroke-width=\"1.0\"/>\n\n  <!-- amber cushion line -->\n  <line class=\"draw\" x1=\"45\" y1=\"107\" x2=\"155\" y2=\"107\" stroke=\"#C4A87A\" stroke-width=\"0.6\"/>\n\n  <!-- corner marks -->\n  <polyline class=\"draw\" points=\"15,15 25,15 25,25\"   stroke=\"#C4A87A\" stroke-width=\"1\" fill=\"none\"/>\n  <polyline class=\"draw\" points=\"185,15 175,15 175,25\" stroke=\"#C4A87A\" stroke-width=\"1\" fill=\"none\"/>\n\n</svg>"
     }
   ],
   "cv": {
