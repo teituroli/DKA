@@ -1,6 +1,16 @@
 {
   "site": {},
-  "photos": [],
+  "photos": [
+    {
+      "filename": "backpack.jpg",
+      "displayName": "backpack",
+      "year": "2026",
+      "category": "",
+      "project": "project-1772642573658",
+      "caption": "Short caption ere",
+      "order": 999
+    }
+  ],
   "svgs": [],
   "projects": [
     {
